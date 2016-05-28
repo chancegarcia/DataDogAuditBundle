@@ -1,0 +1,3 @@
+- update README
+- migrate into package the example `audit` controller
+- tweak label logic to try using an entity `getAuditLabel`method for audit labeling
